@@ -4,11 +4,11 @@ Codes in this organization are governed BSD3 license or The Unlicense. Texts are
 
 This organization contains:
 
-- (Planned) [specification](/specification): Formal specification of the KARA format.
-- (Planned) [libkara](/libkara): a reference C library implementation of the KARA format.
-- (Planned) [website](/website): the KARA project homepage.
-- (Planned)[editor](/editor): a web and desktop editor for authoring a KARA file, using the Flutter framework.
-- [vim-kara](/vim-kara): Vim support for the KARA format.
+- (Planned) [specification](https://github.com/libkara/specification): Formal specification of the KARA format.
+- (Planned) [libkara](https://github.com/libkara/libkara): a reference C library implementation of the KARA format.
+- (Planned) [website](https://github.com/libkara/website): the KARA project homepage.
+- (Planned)[editor](https://github.com/libkara/editor): a web and desktop editor for authoring a KARA file, using the Flutter framework.
+- [vim-kara](https://github.com/libkara/vim-kara): Vim support for the KARA format.
 
 **Community**:
 
